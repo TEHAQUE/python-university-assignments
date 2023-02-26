@@ -1,1 +1,1 @@
-# python-university-assignments
+# university-assignments
