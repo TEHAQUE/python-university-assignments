@@ -79,7 +79,7 @@ const spin=()=>{
                             komunikat.innerHTML = ''
     }
                             if(balance === 0){
-                                komunikat.innerHTML = 'Nie masz wiêcej monet'
+                                komunikat.innerHTML = 'Nie masz wiÃªcej monet'
                             }
 
                             const losowanie = powers[Math.floor(Math.random() * powers.length)];
